@@ -11,7 +11,7 @@ export default class Navigation extends Component {
           <Navbar.Brand>
             <Link to="/">
               {/* <Image className="logo" src="/assets/logo-12.png" />{" "} */}
-              <Image className="logo" src="/assets/logo-12.png" />{" "}
+              <Image className="logo" src="/assets/logo-1.jpg" />{" "}
             </Link>
            
           </Navbar.Brand>
